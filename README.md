@@ -30,4 +30,3 @@
 
 ## 📬 Contact & Collaboration
 欢迎 Star、Fork 或提 Issue，一起探索技术、共建开源生态！  
-> ✨ "We fought all the way, not to change the world, but to keep the world from changing us!"
