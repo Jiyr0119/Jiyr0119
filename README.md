@@ -1,1 +1,3 @@
-👨💻 全栈开发者 | AI/LLM 应用探索者 | 开源爱好者🌐 专注跨平台工具、智能应用与后端服务开发，热衷于将技术落地为实用解决方案💡 技术栈：Python/TypeScript/Vue/Go/Rust/C++ | 擅长 LLM 应用、前端工程化、后端架构设计
+👨💻 全栈开发者 | AI/LLM 应用 & 跨平台工具构建者  
+💻 技术栈：Python/TS/Vue/Go/Rust | 开源项目践行者  
+📫 欢迎 Star/Fork 交流共建！
